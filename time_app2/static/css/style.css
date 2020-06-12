@@ -1,0 +1,18 @@
+*{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    background: url("https://www.alwayswanderlust.com/wp-content/uploads/2018/01/Kerry-Park2.jpg.webp") no-repeat fixed center
+}
+
+.header{
+    text-align: center;
+    padding: 2%;
+}
+
+.time{
+    text-align: center;
+    border-style: solid;
+    width: 500px;
+    margin: auto;
+}
